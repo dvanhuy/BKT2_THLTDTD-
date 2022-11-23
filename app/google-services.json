@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568144120399",
+    "project_id": "baitapltdtdd",
+    "storage_bucket": "baitapltdtdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568144120399:android:ff30e3517f836a5745b83a",
+        "android_client_info": {
+          "package_name": "com.example.btfirebasetonghop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568144120399-ht3rtrs5maqk2949a04hjejqfdnitim8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7O8YF2BpyjnKeWzbJ2TEvT4lu9JV879Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568144120399-ht3rtrs5maqk2949a04hjejqfdnitim8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
